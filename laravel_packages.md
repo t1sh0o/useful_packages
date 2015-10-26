@@ -4,6 +4,7 @@
 
 #### Blog:
 - Adding blog to your site [jorenvanhocht/blogify](http://www.blogify.io/)
+- Text editor for blog posts [basecamp/trix](https://github.com/basecamp/trix)
 
 #### HTML:
 - Easy create forms [kristijanhusak/laravel-form-builder](https://github.com/kristijanhusak/laravel-form-builder)
